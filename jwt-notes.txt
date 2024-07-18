@@ -1,0 +1,10 @@
+>> dev dependencies
+>> production  ''
+>> immediate invoke fn
+>> app.set()
+>> session
+>> temporal dead zone
+>> to generate jwt token -jwt.sign
+>> secret key used to decode and encode our token
+>> to verify our token - jwt.verify
+>> bearer token
